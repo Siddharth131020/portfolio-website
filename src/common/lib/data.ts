@@ -61,14 +61,14 @@ export const academicsData = [
 
 export const experiencesData = [
   {
-    title: 'Intensive Fiscal Services Pvt. Ltd',
-    location: 'Mumbai, India',
+    title: 'Intensive Fiscal Services Pvt. Ltd (Internship)',
+    location: 'Mumbai, India (Onsite)',
     description: 'Analyst. Contributed to IPO documents, analyzed financial statements, built 10+ financial models, and created investor presentations, including for a ₹650 Cr IPO, highlighting company strengths and strategic growth opportunities.',
     icon: React.createElement(BriefcaseBusinessIcon),
     date: 'January 2025 - April 2025',
   },
   {
-    title: 'Coding Blocks',
+    title: 'Coding Blocks (Internship)',
     location: 'New Delhi, India (Hybrid)',
     description: 'Teaching Assistant. Taught DSA to 200+ students through interactive online/offline sessions, developed 100+ worksheets and quizzes, and led 10+ weekly sessions to strengthen conceptual understanding and practical coding skills.',
     icon: React.createElement(BriefcaseBusinessIcon),
@@ -128,7 +128,7 @@ export const skillsData = [
   ['Pitch Decks', '/svgs/pitch-decks.svg'],
   // ['Tanstack Query', '/svgs/react-query-seeklogo.svg'],
   // ['Tanstack Table', '/svgs/db-table-svgrepo-com.svg'],
-  ['Cloudinary', '/svgs/cloudinary.svg'],
+  // ['Cloudinary', '/svgs/cloudinary.svg'],
   // ['Golang', '/svgs/golang.svg'],
   // ['Docker', '/svgs/Docker.svg'],
   // ['Clerk', '/svgs/clerk.svg'],
