@@ -90,7 +90,7 @@ export const projectsData = [
     description: `Developed a CLIP-based multimodal model for meme sentiment analysis on 10K samples, achieving an F1 score of 39 and outperforming previous benchmarks using data augmentation, regularization, and learning rate scheduling.`,
     tags: ['Python', 'M2CLIP-SEmoNet', 'HuggingFace', 'Data Augmentation'],
     imageUrl: Sentimeme,
-    link: 'https://barks-and-whiskers.onrender.com/',
+    link: 'https://siddharth-mehta.vercel.app/',
   },
   {
     title: 'Image Classification',
